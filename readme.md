@@ -5,6 +5,14 @@
 This is a demo project to show how to implement OAuth2.0 authentication in a Flutter app using Django REST Framework as the backend.
 This project uses **Resource Owner Password Credentials Grant** flow.
 
+### Demo
+
+<video width="320" height="240" controls>
+  <source src="https://cdn.discordapp.com/attachments/492188265487532032/1100053480141500467/django-flutter-oauth2.mp4" type="video/mp4" alt="video demonstration">
+</video>
+
+sorry for the bad quality / aspect ratio
+
 ## How to run
 
 Set up the Django backend:
