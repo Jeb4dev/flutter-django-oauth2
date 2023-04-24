@@ -7,9 +7,7 @@ This project uses **Resource Owner Password Credentials Grant** flow.
 
 ### Demo
 
-<video width="320" height="240" controls>
-  <source src="https://cdn.discordapp.com/attachments/492188265487532032/1100053480141500467/django-flutter-oauth2.mp4" type="video/mp4" alt="video demonstration">
-</video>
+[![Demo video](https://cdn.discordapp.com/attachments/492188265487532032/1100054903482757200/image.png)](https://cdn.discordapp.com/attachments/492188265487532032/1100053480141500467/django-flutter-oauth2.mp4)
 
 sorry for the bad quality / aspect ratio
 
